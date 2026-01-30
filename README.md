@@ -219,7 +219,7 @@ ros2 launch env_check_pkg env_check.launch.py
 **Screenshot:**  
 _[Include one screenshot showing talker + listener running]_
 
-![Talker and Listener Running](path/to/your/fig2.png)
+![Talker and Listener Running](fig2.png)
 
 ---
 
