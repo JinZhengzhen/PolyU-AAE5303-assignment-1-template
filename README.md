@@ -38,8 +38,8 @@ _[venv / conda / system Python]_
 
 **Key commands you ran:**
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
+conda create -n aae5303 python=3.10
+conda activate aae5303
 pip install -r requirements.txt
 ```
 
