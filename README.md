@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 
 **Any deviations from the default instructions:**  
-_[Describe any changes you made, or write "None"]_
+_[I used a Conda virtual environment. ]_
 
 ### 2.2 Test Results
 
